@@ -1,0 +1,32 @@
+  431  ls
+  434  git revert cf0b2f7dcd1a189336a467b195c5c51b07e0f518
+  435  cat file4.txt
+  437  nano file5.txt 
+  438  git commit -am"File 5 changed"
+  440  git revert b9b14af75534629775c24adf0f4e71eecb634ffc
+  441  git revert --skip
+  442  git log
+  443  git revert 21ab2392c17a93a98ac11de6acb7b5263bdbb74f
+  444  cat file5.txt
+  445  git --help revert
+  446  cd
+  447  cd Workspace/AIMS/Python/python_course/notebooks_lecture_notes
+  448  cd reports
+  449  cd kenny.andriantiavintsoa-daily-reports
+  450  nano kenny.andriantiavintsoa-day04-reports.txt
+  457  nano kenny.andriantiavintsoa-day04-reports.txt
+  459  cd simplestats
+  460  ls
+  461  nano file1.txt
+  462  git commit -am "file one changed"
+  465  git revert 05d7604892972e65d5c0bb6df8161a11828a6495
+  466  cat file1.txt
+  468  nano file5.txt
+  469  git commit -am "file 5 change"
+  470  git status
+  471  git log
+  473  git revert 2abcd4afd52d3cd0d6185af79b8c24bcaab655ae
+  474  cat file5.txt
+  475  cd
+  476  cd Workspace/AIMS/Python/python_course/notebooks_lecture_notes
+  477  cd reports/kenny.andriantiavintsoa-daily-reports
